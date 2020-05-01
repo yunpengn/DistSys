@@ -19,3 +19,8 @@
 
 # MacOS specific files
 .DS_Store
+
+# Project specific files
+pkg/
+api.key
+*-handin.tar.gz
